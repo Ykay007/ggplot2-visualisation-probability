@@ -1,3 +1,5 @@
+# Probability Function Plot using ggplot2
+
 In conducting probability analysis, the two variables that take account of the chance of an event happening are N (number of observations) and λ (lambda – our hit rate/chance of occurrence in a single interval).
 
 Note that the below code can also be written as a function – but I will first write an extended version to illustrate exactly how the calculations are taking place.
